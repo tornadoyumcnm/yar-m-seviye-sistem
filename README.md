@@ -1,5 +1,5 @@
 # alın lazım olur
-
+```
 const Discord = require('discord.js')
 const { permissionsEmbed, TickEmbed } = require('../../client/embed.js');
 
